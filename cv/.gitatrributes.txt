@@ -1,0 +1,3 @@
+* text=auto
+*.xml text eol=crlf  # 明确指定 .xml 文件使用 CRLF
+*.sh text eol=lf    # 明确指定 .sh 文件使用 LF
